@@ -11,17 +11,6 @@ Python toolkit for working with the viagogo API. Our [developer site][apidocs]
 documents all of the viagogo APIs.
 
 
-## Installation
-
-Install via pip
-
-    pip install --upgrade gogokit
-
-... or
-
-    easy_install --upgrade gogokit
-
-
 ## Usage
 
 See our [developer site][apidocsgettingstarted] for more examples.
